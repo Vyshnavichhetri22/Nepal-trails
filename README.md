@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nepal Trails – Discover Nepal
 
 A responsive travel landing page showcasing the natural beauty, destinations, culture, and adventures of Nepal.
@@ -34,3 +35,7 @@ nepal-trails/
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
+=======
+# Nepal-trails
+A responsive travel landing page showcasing the beauty and destinations of Nepal.
+>>>>>>> 07a42915e1d14d3646de3938ca49fc0536517952
